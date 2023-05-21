@@ -1,0 +1,25 @@
+{
+    "user": [
+      {
+        "name": "jyoti",
+        "class": 9,
+        "role": "student"
+      },
+      {
+        "name": "vipin",
+        "class": 9,
+        "role": "student"
+      },
+      {
+        "name": "kavita",
+        "class": 9,
+        "role": "teacher"
+      },
+      {
+        "id": 2,
+        "name": "sanvi",
+        "class": "3",
+        "role": "student"
+      }
+    ]
+  }
